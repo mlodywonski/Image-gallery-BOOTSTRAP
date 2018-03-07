@@ -1,0 +1,19 @@
+body {
+	margin: 70px;
+}
+
+
+.jumbotron {
+	background: #e5eeff;
+	color: #00274c;
+}
+
+.navbar {
+	background: #00172d;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
+	color: white;
+}
+
+
